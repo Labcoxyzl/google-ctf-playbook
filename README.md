@@ -69,9 +69,3 @@ The labels are optional. Preserve widths, signs, indexing, state relationships a
 This guide assumes ordinary text Search and an automatically displayed Overview. An **Ask anything** follow-up can move into a separate conversational experience: Google explicitly documents that transition on mobile. Use the normal Search box for another self-contained question, and check the actual surface before continuing. [Google's January 2026 announcement](https://blog.google/products-and-platforms/products/search/ai-mode-ai-overviews-updates/) describes the transition.
 
 Expanding **Show more**, pressing **Generate**, uploading an image through Lens, or opening a cited webpage are distinct actions. Do not assume they are permitted because the initial Overview is permitted. If the event allows only the visible automatic answer, work within that limit. The references in this repository support preparation; they do not grant permission to open external pages during a challenge. See [rules and search surfaces](docs/troubleshooting.md#rules-and-surfaces).
-
-## Evidence and limits
-
-The ChatGPT handoff is the primary research input; the Gemini handoff supplies secondary material after checking its claims. Historical observations, locally verified toy examples, current product documentation and suggested query wording are kept distinct. No new live Google trigger experiment was performed for this repository.
-
-Read [sources and evidence](docs/sources.md) for the review scope, corrected claims and remaining uncertainties. Product documentation was reviewed on **26 October 2026**.
